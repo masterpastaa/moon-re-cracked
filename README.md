@@ -22,6 +22,7 @@ Because they are selling a pasted & detect cheat, so scamming.
   IoCreateDriver(&DestinationString, sub_1400016F0);
   return 0;
 }
+```
 ```cpp
  RtlInitUnicodeString(&DestinationString, L"\\Device\\may2h2drve");
   result = IoCreateDevice(DriverObject, 0, &DestinationString, 0x22u, 0x100u, 0, &DeviceObject);
