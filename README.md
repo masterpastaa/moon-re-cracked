@@ -3,6 +3,9 @@ moon is a pasted cheat claiming to be uncrackable and undetect. (ITS PAID)
 # Why i cracked it
 Because they are selling a pasted & detect cheat, so scamming.
 
+# but.. this cheat already got cracked by stoneless
+yes ik my son cracked it but apparently they pushed a new update with a new "ud" driver and "ud" mapper.. my dick.
+
 # THE DRIVER
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/914987108387663953/914996533429174322/unknown.png"/>
