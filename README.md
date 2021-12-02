@@ -1,3 +1,5 @@
+# its moon.win and not the moon owned by Aimed#0001 !!
+
 # What is moon
 moon is a pasted cheat claiming to be uncrackable and undetect. (ITS PAID)
 # Why i cracked it
