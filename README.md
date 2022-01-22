@@ -87,8 +87,7 @@ as you can see they use ioctl...........
 
 # THE MAPPER
 
-Its kdmapper. And kdmapper mean detect.
-
+no comments
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/910143447569166398/914995630240325742/unknown.png"/>
 </div>
